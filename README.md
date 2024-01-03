@@ -42,8 +42,9 @@ Dataset: https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?r
 
 
 ## 4. Data Visualization
-![image](https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-/assets/150989115/2e2ce75b-0b91-42cc-ade3-5d64bd3338b3)
-![image](https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-/assets/150989115/6d2658e6-9745-4f63-8af0-8e87cd0712ea)
+![Screenshot (204)](https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-/assets/150989115/418d09af-d37d-40a9-b9b8-19333b30695f)
+![Screenshot (203)](https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-/assets/150989115/3194bb0d-48d1-4cb0-991e-fc441c4916a0)
+
 - After cleaning the data, I switched back to Tableau Desktop dashboard for visualization phase. I exported cleaned dataset as a csv file in Tableau Prep Builder and then imported it in Tableau Desktop.
 - I have chosen a bar graph, a line graph and a visual world map to display visualizations of average of world university rankings and average scores from 2012 to 2015. The graphs clearly show that there is a correlation between university ranking and university score.
 - The visual world map and bar graph also clearly display that there are mostly top universities in USA and Europe countries.
