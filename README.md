@@ -42,8 +42,9 @@ Dataset: https://www.kaggle.com/datasets/mylesoneill/world-university-rankings?r
 
 
 ## 4. Data Visualization
-![Screenshot (204)](https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-/assets/150989115/418d09af-d37d-40a9-b9b8-19333b30695f)
-![Screenshot (203)](https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-/assets/150989115/3194bb0d-48d1-4cb0-991e-fc441c4916a0)
+![image](https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-/assets/150989115/6676c8d2-d5eb-4d89-8f10-954867d11d29)
+![image](https://github.com/SimonLim03/Data-Visualization-on-World-University-Ranking-Tableau-/assets/150989115/e4eb8033-8990-4635-8e63-c039e1c7b869)
+
 - A scatter plot shows that there is no relationship between quality of education and world rank of universities. However, universities with higher rankings tend to have higher ranking of citations as well.
 - A horizontal bar graph is used to show the top 20 countries with the most top ranked universities. Accordingly, USA has the most top ranked universities, followed by China, Japan and United Kingdom. 
 - The visual world map and bar graph also clearly display that there are mostly top universities in USA, Asia and Europe countries.
